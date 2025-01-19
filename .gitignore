@@ -4,3 +4,5 @@ temp/*
 Lang-Chain-Docs/cookbook/*
 Lang-Chain-Docs/docs/*
 3-Integration/3-Embeddings/cache/*
+3-Integration/4-Vector-Stores/chroma_db
+3-Integration/4-Vector-Stores/faiss_index
