@@ -8,3 +8,4 @@ Lang-Chain-Docs/docs/*
 3-Integration/4-Vector-Stores/faiss_index
 3-Integration/3-Embeddings/faiss_pdf_index/*
 3-Integration/4-Vector-Stores/sqliteVec.db
+3-Integration/4-Vector-Stores/in_mem_vector_dump
