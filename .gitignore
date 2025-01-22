@@ -9,3 +9,6 @@ Lang-Chain-Docs/docs/*
 3-Integration/3-Embeddings/faiss_pdf_index/*
 3-Integration/4-Vector-Stores/sqliteVec.db
 3-Integration/4-Vector-Stores/in_mem_vector_dump
+3-Integration/4-Vector-Stores/faiss_pdf_index/index.faiss
+3-Integration/4-Vector-Stores/faiss_pdf_index/index.pkl
+3-Integration/4-Vector-Stores/in_mem_vector_dump
