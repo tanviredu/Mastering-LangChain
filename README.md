@@ -1,3 +1,6 @@
+
+![Lang_Chain_2](https://github.com/user-attachments/assets/f6036519-06e7-49a5-a71c-7f64f09edba9)
+
 Master LangChain and build smarter AI solutions with large language model (LLM) integration! This course covers everything you need to know to build robust AI applications using LangChain. We’ll start by introducing you to key concepts like AI, large language models, and retrieval-augmented generation (RAG). From there, you’ll set up your environment and learn how to process data with document loaders and splitters, making sure your AI has the right data to work with.
 
 Next, we’ll dive deep into embeddings and vector stores, essential for creating powerful AI search and retrieval systems. You’ll explore different vector store solutions such as FAISS, ChromaDB, and Pinecone, and learn how to select the best one for your needs. Our retriever modules will teach you how to make your AI smarter with multi-query and context-aware retrieval techniques.
