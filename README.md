@@ -1,5 +1,5 @@
 
-![Lang_Chain_2](https://github.com/user-attachments/assets/f6036519-06e7-49a5-a71c-7f64f09edba9)
+[<img src="https://github.com/user-attachments/assets/f6036519-06e7-49a5-a71c-7f64f09edba9">](https://www.udemy.com/course/master-langchain-llm-integration-build-smarter-ai-solutions/?referralCode=0BAE2F146F11C578248B)
 
 Master LangChain and build smarter AI solutions with large language model (LLM) integration! This course covers everything you need to know to build robust AI applications using LangChain. We’ll start by introducing you to key concepts like AI, large language models, and retrieval-augmented generation (RAG). From there, you’ll set up your environment and learn how to process data with document loaders and splitters, making sure your AI has the right data to work with.
 
@@ -65,3 +65,5 @@ In the second half of the course, we’ll focus on building AI chat models and c
     
 
 **Let’s get started and unlock the full potential of LangChain together!**
+
+Enroll here : [Master LangChain LLM Integration: Build Smarter AI Solutions](https://www.udemy.com/course/master-langchain-llm-integration-build-smarter-ai-solutions/?referralCode=0BAE2F146F11C578248B)
